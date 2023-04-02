@@ -2,5 +2,5 @@ title: Welcome to Lukejet's homepage!
 description: Programmer
 show_downloads: false
 google_analytics: 
-#theme: jekyll-theme-dinky
-theme: minima
+theme: jekyll-theme-dinky
+#theme: minima
