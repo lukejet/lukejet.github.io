@@ -4,4 +4,4 @@ show_downloads: false
 google_analytics: 
 theme: jekyll-theme-dinky
 #theme: minima
-markdown: kramdown
+markdown: GFM 
